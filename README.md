@@ -1,4 +1,4 @@
-[Live Demo](https://r3f-wawatmos-final.vercel.app/)
+[Live Demo](https://charles-atmosphere.vercel.app/)
 
 ### how to run
 
